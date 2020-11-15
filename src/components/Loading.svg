@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-dddsf_4);
+      }
+
+      .cls-2 {
+        fill: #df8612;
+      }
+
+      .cls-3 {
+        fill: #fdfcf2;
+        stroke: #707070;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #df8612;
+        stroke-linecap: round;
+        stroke-width: 8px;
+        stroke-dasharray: 360 1200;
+      }
+
+      .cls-5 {
+        fill: #ea8b38;
+        font-size: 169px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        opacity: 0.73;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffa218"/>
+      <stop offset="0.393" stop-color="#facf8f"/>
+      <stop offset="1" stop-color="#fdc6c6"/>
+    </linearGradient>
+    <clipPath id="clip-dddsf_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="dddsf_4" data-name="dddsf – 4" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <rect id="사각형_16" data-name="사각형 16" class="cls-2" width="1206" height="319" rx="159.5" transform="translate(357 381)"/>
+    <g id="사각형_5" data-name="사각형 5" class="cls-3" transform="translate(384 397)">
+      <rect class="cls-6" width="1153" height="287" rx="143.5"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="1152" height="286" rx="143"/>
+    </g>
+    <ellipse id="타원_6" data-name="타원 6" class="cls-4" cx="87" cy="87.5" rx="87" ry="87.5" transform="translate(491 453)"/>
+    <g id="그룹_13" data-name="그룹 13" transform="translate(692.96 428.093)">
+      <g id="그룹_12" data-name="그룹 12" transform="translate(0 0)">
+        <text id="LOADING" class="cls-5" transform="translate(0.04 181.907)"><tspan x="0" y="0">LOADING</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+.gb1 {
+    position: absolute;
+    margin-left:0%;
+    margin-top:-1085px;
+    width:960px;
+    height:1080px;
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: transparent;
+    border: none;
+    color: #FFFFFF;
+}
+.gb2 {
+    position: absolute;
+    margin-left:50%;
+    margin-top:-1085px;
+    width:960px;
+    height:1080px;
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: transparent;
+    border: none;
+    color: #FFFFFF;
+}
